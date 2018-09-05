@@ -1,0 +1,13 @@
+button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-bock;
+    font-size: 16px;
+}
+
+#rock {background-color: #16A9CC;}
+#paper {background-color: #4CAF50; }
+#scissors {background-color: #f44336; }
